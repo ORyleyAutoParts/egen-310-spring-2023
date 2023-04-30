@@ -1,1 +1,1 @@
-# egen-310-spring-2023
+Master_Reader.ino is used for the sensor package. The sensor package intakes information from two different sensors to get information about the temperature, humidity, and wind speed. It then stores this information in a csv file on the connected MicroSD card. 
